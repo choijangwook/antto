@@ -32,3 +32,33 @@
     transform: rotate(360deg);
   }
 }
+
+
+.ball {
+  background-color:black;
+  color:white;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  margin:0 10px;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+.color-1 {
+  background-color: rgb(241, 205, 0);
+}
+.color-11 {
+  background-color: rgb(59, 89, 255);
+}
+.color-21 {
+  background-color: rgb(255, 80, 80);
+}
+.color-31 {
+  background-color: rgb(193, 59, 255);
+}
+.color-41 {
+  background-color: rgb(64, 192, 102);
+}
