@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6ea38f292425c641fb609441718a805",
+    "revision": "b67143588950d054c673cc53eba30fb6",
     "url": "/antto/index.html"
   },
   {
-    "revision": "e0ac49a52a884b77146b",
+    "revision": "7901f96ecc92f6867fd5",
     "url": "/antto/static/css/main.c914ae08.chunk.css"
   },
   {
-    "revision": "1e47ebc173b4a84bf2e3",
-    "url": "/antto/static/js/2.28a20c18.chunk.js"
+    "revision": "d14f6ba2859dd6078f8f",
+    "url": "/antto/static/js/2.b9e38644.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/antto/static/js/2.28a20c18.chunk.js.LICENSE.txt"
+    "url": "/antto/static/js/2.b9e38644.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0ac49a52a884b77146b",
-    "url": "/antto/static/js/main.6e903583.chunk.js"
+    "revision": "7901f96ecc92f6867fd5",
+    "url": "/antto/static/js/main.41e2b77e.chunk.js"
   },
   {
     "revision": "e665a26d1250f37f9b99",

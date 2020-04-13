@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/antto/static/css/main.c914ae08.chunk.css",
-    "main.js": "/antto/static/js/main.6e903583.chunk.js",
-    "main.js.map": "/antto/static/js/main.6e903583.chunk.js.map",
+    "main.js": "/antto/static/js/main.41e2b77e.chunk.js",
+    "main.js.map": "/antto/static/js/main.41e2b77e.chunk.js.map",
     "runtime-main.js": "/antto/static/js/runtime-main.713b8b4e.js",
     "runtime-main.js.map": "/antto/static/js/runtime-main.713b8b4e.js.map",
-    "static/js/2.28a20c18.chunk.js": "/antto/static/js/2.28a20c18.chunk.js",
-    "static/js/2.28a20c18.chunk.js.map": "/antto/static/js/2.28a20c18.chunk.js.map",
+    "static/js/2.b9e38644.chunk.js": "/antto/static/js/2.b9e38644.chunk.js",
+    "static/js/2.b9e38644.chunk.js.map": "/antto/static/js/2.b9e38644.chunk.js.map",
     "index.html": "/antto/index.html",
-    "precache-manifest.3ed7e63937cc952a9d40240d7b97bcaf.js": "/antto/precache-manifest.3ed7e63937cc952a9d40240d7b97bcaf.js",
+    "precache-manifest.f23b2a90fa2269b229741eb1cf23c91c.js": "/antto/precache-manifest.f23b2a90fa2269b229741eb1cf23c91c.js",
     "service-worker.js": "/antto/service-worker.js",
     "static/css/main.c914ae08.chunk.css.map": "/antto/static/css/main.c914ae08.chunk.css.map",
-    "static/js/2.28a20c18.chunk.js.LICENSE.txt": "/antto/static/js/2.28a20c18.chunk.js.LICENSE.txt"
+    "static/js/2.b9e38644.chunk.js.LICENSE.txt": "/antto/static/js/2.b9e38644.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.713b8b4e.js",
-    "static/js/2.28a20c18.chunk.js",
+    "static/js/2.b9e38644.chunk.js",
     "static/css/main.c914ae08.chunk.css",
-    "static/js/main.6e903583.chunk.js"
+    "static/js/main.41e2b77e.chunk.js"
   ]
 }
