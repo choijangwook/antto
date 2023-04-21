@@ -1,4 +1,4 @@
-# ANTTO
+# LOTTO
 로또다
 
 ## Demo
